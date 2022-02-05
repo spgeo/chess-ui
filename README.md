@@ -4,6 +4,10 @@ A simple chess user interface based on [react-chessground](https://github.com/ru
 
 ## Usage
 
+Install build dependencies with
+
+	yarn install
+
 Run with
 
 	yarn start
